@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: white;
+  border-bottom: 1px solid #ccc;
+}
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+.footer {
+  text-align: center;
+  padding: 2rem;
+  background: #f9f9f9;
+}
